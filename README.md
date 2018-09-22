@@ -1,6 +1,9 @@
 # Remote PowerPoint Web Binder
 ## Library adding remote powerpoint controller support
 
+### -- [ WORKING DEMO ] --
+Working demo here : https://jsbin.com/pirova/edit?js,output
+
 ### -- [ CAUTION ] --
     
 * tested with "MP power PRESENT-POINTER" https://goo.gl/vSzS5R
